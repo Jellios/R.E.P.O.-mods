@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7bb70ed2ab24fb9aadba4baeb663b4c, type: 3}
+  m_Name: ModExportSettingsSource
+  m_EditorClassIdentifier: 
+  _settings:
+  - {fileID: 1271441163537051762}
+  - {fileID: 2539586236957375517}
+--- !u!114 &1271441163537051762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8bc0622b42a4ddca773bdc9a802fc15, type: 3}
+  m_Name: '-'
+  m_EditorClassIdentifier: 
+  _mod: {fileID: 11400000, guid: d7131f5c3899def49a116a50b3a61a4b, type: 2}
+  _extraFiles: []
+--- !u!114 &2539586236957375517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8bc0622b42a4ddca773bdc9a802fc15, type: 3}
+  m_Name: '-'
+  m_EditorClassIdentifier: 
+  _mod: {fileID: 11400000, guid: bec2f08d233a14e4da81f97d5bc6b516, type: 2}
+  _extraFiles: []
